@@ -1,0 +1,8 @@
+# Ignorar arquivos temporários e cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+.vscode/
+.idea/
